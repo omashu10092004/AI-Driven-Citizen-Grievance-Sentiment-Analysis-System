@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+scikit-learn
+joblib
+SpeechRecognition
+pyaudio
+pandas
+matplotlib
+seaborn
